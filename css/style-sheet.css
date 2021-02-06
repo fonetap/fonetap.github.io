@@ -6,7 +6,11 @@ body {
     margin: 0px;
     position: relative;
     min-height: 100%;
-    background-image: url("file:///Users/johnmckiever/Documents/webdev/fonetap.com/img/illscholarsBG.jpg");
+<<<<<<< HEAD
+    background-color: #000000;
+=======
+    background-color: black;
+>>>>>>> 84147f2be0caebbf9150251a72ca079faa093d70
     background-repeat: repeat;
     background-size: cover;
    
